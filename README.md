@@ -25,14 +25,13 @@ Assigned a static IP address
 Renamed the server (CHANGE SERVER NAME)
 Confirmed network connectivity
 
-****INSERT SCREEN SHOTS HERE*****
+<img width="1915" height="1075" alt="Win2019Server" src="https://github.com/user-attachments/assets/da7b1521-e4b2-43dc-ac92-15df13fe10be" />
 
+<img width="1026" height="867" alt="Hostname change2" src="https://github.com/user-attachments/assets/cd357f0d-d290-4181-b8cd-c3ab50cc9724" />
 
+<img width="1918" height="1077" alt="StaticIPDFGWDNS" src="https://github.com/user-attachments/assets/02d151cd-5c59-4b4a-8cbe-64684c646981" />
 
-
-
-
-
+<img width="1022" height="861" alt="hostname change1" src="https://github.com/user-attachments/assets/272b70d3-840d-41d7-9fa6-ac3222d992b3" />
 
 
 
