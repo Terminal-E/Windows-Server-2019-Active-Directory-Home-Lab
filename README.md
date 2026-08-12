@@ -63,33 +63,16 @@ Completed promotion and restarted
 <img width="1011" height="912" alt="server to dc2" src="https://github.com/user-attachments/assets/15a426da-666e-44a6-98f3-d3ffa82bbab1" />
 
 
-
-
-
-
-
-
-
-
 *Step 4: Verify Active Directory and DNS*
 
 Confirmed the domain controller came up healthy after reboot.
 Opened Active Directory Users and Computers (ADUC)
 Confirmed the domain appears correctly
 Checked that the DNS role installed alongside AD
-
-
-
-
-
-
-
-
-
-****INSERT SCREENSHOTS HERE*****
-
-
-
+<img width="1012" height="915" alt="DChealth check" src="https://github.com/user-attachments/assets/ffd5609f-e7ea-4d7c-a781-191d3afc4e04" />
+<img width="1018" height="910" alt="DNS SHOWS UP" src="https://github.com/user-attachments/assets/71e83246-242c-4777-b9b6-d2e4e29eff65" />
+<img width="1020" height="917" alt="DC SHOWS UP" src="https://github.com/user-attachments/assets/f9fac8e1-d84b-408f-8fae-fed0ce2639e4" />
+<img width="1018" height="910" alt="DNS CONFIG" src="https://github.com/user-attachments/assets/f96b8319-36f2-415c-950b-5d34a239231c" />
 
 
 *Step 5: Create Organizational Units (OUs)*
