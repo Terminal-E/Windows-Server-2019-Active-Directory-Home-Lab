@@ -57,13 +57,12 @@ Set the root domain name (YOUR ROOT DOMAIN NAME)
 Set the Directory Services Restore Mode (DSRM) password
 Completed promotion and restarted
 
+<img width="933" height="913" alt="Promote server to domain ctl 1" src="https://github.com/user-attachments/assets/47511052-fc1e-4dee-9344-1dacd80a5e79" />
+<img width="927" height="907" alt="server to dc 2" src="https://github.com/user-attachments/assets/4745415f-2d56-475d-af95-4a9f06549730" />
+<img width="1002" height="912" alt="ad ds3" src="https://github.com/user-attachments/assets/ad1501fe-56b0-48a0-9b59-bc9e33a4c6ae" />
+<img width="1011" height="912" alt="server to dc2" src="https://github.com/user-attachments/assets/15a426da-666e-44a6-98f3-d3ffa82bbab1" />
 
 
-
-
-
-
-****INSERT SCREENSHOTS HERE*****
 
 
 
