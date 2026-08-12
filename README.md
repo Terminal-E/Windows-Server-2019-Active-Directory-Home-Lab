@@ -42,19 +42,10 @@ Used Server Manager > Add Roles and Features to install Active Directory Domain 
 Opened Server Manager
 Added the AD DS role
 Completed the role installation
+<img width="926" height="908" alt="Server Roles AD DS" src="https://github.com/user-attachments/assets/0baa6ec6-7272-44b2-a3bd-e53bbc9840b3" />
 
+<img width="925" height="907" alt="ad ds2" src="https://github.com/user-attachments/assets/c6acefb0-7d6c-4224-a654-b5154a1d30b3" />
 
-
-
-
-
-
-
-
-
-
-
-****INSERT SCREENSHOTS HERE*****
 
 
 
@@ -65,6 +56,7 @@ Selected "Add a new forest"
 Set the root domain name (YOUR ROOT DOMAIN NAME)
 Set the Directory Services Restore Mode (DSRM) password
 Completed promotion and restarted
+
 
 
 
