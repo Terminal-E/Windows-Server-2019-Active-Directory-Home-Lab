@@ -92,8 +92,6 @@ Created department OUs beneath it
 
 
 
-
-
 *Step 6: Create User Accounts*
 
 Created user accounts inside the appropriate department OUs.
@@ -118,14 +116,7 @@ Created security groups to manage permissions by role rather than one user at a 
 Created groups (ex. HR-Staff, Finance-Staff, IT-Admins)
 Used the appropriate group scope (ex. Global security groups)
 
-
-****INSERT SCREENSHOTS HERE*****
-
-
-
-
-
-
+<img width="958" height="1021" alt="sec groups 1" src="https://github.com/user-attachments/assets/eebc1d51-77ac-49a8-af33-90b8667e9f61" />
 
 
 
@@ -136,7 +127,8 @@ Added users to their department groups
 Verified membership on the group's Members tab
 
 
-****INSERT SCREENSHOTS HERE*****
+<img width="961" height="1018" alt="sec groups 2" src="https://github.com/user-attachments/assets/39a03346-cdcd-4141-9f7c-47bdcfa26d89" />
+
 
 
 
