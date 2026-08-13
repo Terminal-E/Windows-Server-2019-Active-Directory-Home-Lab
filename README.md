@@ -104,9 +104,8 @@ Placed each user in the correct OU
 Created user accounts within their respective department OUs following a consistent logon naming convention (first initial + last name). Applied password complexity requirements and standard onboarding options, mirroring how accounts are provisioned in a production environment.
 
 
-****INSERT SCREENSHOTS HERE*****
-
-
+<img width="961" height="1021" alt="create dept users 1" src="https://github.com/user-attachments/assets/c96fb64b-2a9c-4087-8464-7bc6b3a8dff3" />
+<img width="961" height="1022" alt="create users 2" src="https://github.com/user-attachments/assets/a9d28233-baec-4e2a-90d9-113c6678f3a5" />
 
 
 
