@@ -101,6 +101,8 @@ Created several test users (ex. jsmith in HR, mgarcia in Finance)
 Set initial passwords and account options
 Placed each user in the correct OU
 
+Created user accounts within their respective department OUs following a consistent logon naming convention (first initial + last name). Applied password complexity requirements and standard onboarding options, mirroring how accounts are provisioned in a production environment.
+
 
 ****INSERT SCREENSHOTS HERE*****
 
