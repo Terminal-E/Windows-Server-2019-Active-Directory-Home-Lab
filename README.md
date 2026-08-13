@@ -83,6 +83,8 @@ Build an OU structure to organize objects logically, the way a real company woul
 
 Created a top-level "Departments" OU
 Created department OUs beneath it
+
+
 <img width="961" height="1017" alt="OU&#39;s 1" src="https://github.com/user-attachments/assets/3d07183f-fcf0-4b0f-a945-217dbc569476" />
 
 
